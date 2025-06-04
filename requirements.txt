@@ -1,0 +1,8 @@
+torch
+SpeechRecognition
+pyttsx3
+wikipedia
+nltk
+numpy
+scikit-learn
+wikipedia-api
