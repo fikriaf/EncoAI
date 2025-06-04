@@ -1,7 +1,7 @@
 # EncoAI
 
 EncoAI is a neural network-based AI assistant developed using PyTorch. It is capable of listening, understanding, searching, and speaking, facilitating interactive and dynamic conversations.
-
+![demo](reshrhtrj.png)
 ## Features
 
 - **Listening**: Captures and processes audio input for real-time interaction.
